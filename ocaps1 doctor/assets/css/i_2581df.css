@@ -1,0 +1,33 @@
+
+  html{
+    scroll-behavior: smooth;
+    }
+  .footer-wrapper{
+      text-align: center;
+      font-size: 12px;
+      padding: 5px 10px;
+      color: #858585;
+      padding-top: 15px;
+      background-color: #cecece6e;
+      font-weight:400!important;
+  }
+  .footer-wrapper a {
+      color: black;
+      text-decoration: none;
+  }
+  .footer-wrapper a:hover {
+      color: #2a2a2a
+  }
+  .footer-wrapper a:visited {
+      color: #2a2a2a
+  }
+  .footer-inner-wrapper {
+  }
+  .post-footer-wrapper {
+      font-size: 14px;
+      text-align: center;
+      padding: 3px 10px;
+      color: #858585;
+      background-color: #cecece6e;
+  }
+  
